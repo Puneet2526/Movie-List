@@ -1,0 +1,73 @@
+.description{
+    display: flex;
+    display: inline block;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    margin: 20px;
+}
+
+.description img{
+    height: 400px;
+    width: 300px;
+    padding-left: 30px;
+}
+
+.description p{
+    font-size: 20px;
+    padding-left: 40px;
+    
+}
+
+.series{
+    text-align: center;
+    margin: 12px ;
+    
+}
+
+.series img{
+    height: 350px;
+    width: 300px;
+    margin: 0px 10px  ;
+    transition: transform .5s;
+}
+
+
+
+.series img:hover{
+   transform:scale(1.1)
+}
+
+.display.img{
+    height: 5px;
+}
+
+.adding{
+   
+
+margin: 10px 600px;
+
+}
+
+.title{
+    height: 40px;
+    width: 200px;
+    border-radius: 9px;
+    border: 1px solid black;
+    margin: 20px 0px;
+ 
+}
+
+.adding button{
+    height: 40px;
+    width: 100px;
+    border-radius: 20px;
+    margin-left: 50px;
+    border: 2px solid black;
+    color: white;
+    background-color: black;
+    
+}
+
+
+
+

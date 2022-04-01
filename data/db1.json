@@ -1,0 +1,60 @@
+{
+  "series": [
+    {
+      "Title": "Family man",
+      "Genre": "thriler",
+      "Cast": "Manoj",
+      "Quote": "vddd",
+      "language": "hindi",
+      "id": 1
+    },
+    {
+      "Title": "money heist",
+      "Genre": "heist",
+      "Cast": "Berlin",
+      "Quote": "Bella Ciao",
+      "language": "spanish",
+      "id": 2
+    },
+    {
+      "Title": "Game of thrones",
+      "Genre": " action",
+      "Cast": "Emilla clarke",
+      "Quote": "winter is coming",
+      "language": "english",
+      "id": 3
+    },
+    {
+      "Title": "Prison break",
+      "Genre": "Theif",
+      "Cast": "Wentworth",
+      "Quote": "people always look out for themselves",
+      "language": "english",
+      "id": 4
+    },
+    {
+      "Title": "Friends",
+      "Genre": "emotions",
+      "Cast": "Genefer",
+      "Quote": "Don't be afraid to take a risk",
+      "language": "english",
+      "id": 5
+    },
+    {
+      "Title": "Beast",
+      "Genre": "Family",
+      "Cast": "vijay",
+      "Quote": "hello",
+      "Language": "Tamil",
+      "id": 6
+    },
+    {
+      "Title": "Mahan",
+      "Genre": "drugs",
+      "Cast": "puneet",
+      "Quote": "hmmm",
+      "Language": "tamil",
+      "id": 7
+    }
+  ]
+}
